@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>http://www.pavlosnikolaou.com/</loc>
+    <lastmod>2020-08-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>http://www.pavlosnikolaou.com/contact/index.html</loc>
+    <lastmod>2020-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://www.pavlosnikolaou.com/events/index.html</loc>
+    <lastmod>2020-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://www.pavlosnikolaou.com/fashion/index.html</loc>
+    <lastmod>2020-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://www.pavlosnikolaou.com/food/index.html</loc>
+    <lastmod>2020-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://www.pavlosnikolaou.com/gallery/index.html</loc>
+    <lastmod>2020-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://www.pavlosnikolaou.com/jewelry/index.html</loc>
+    <lastmod>2020-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://www.pavlosnikolaou.com/music/index.html</loc>
+    <lastmod>2020-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://www.pavlosnikolaou.com/portfolio/index.html</loc>
+    <lastmod>2020-08-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>http://www.pavlosnikolaou.com/portraits/index.html</loc>
+    <lastmod>2020-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://www.pavlosnikolaou.com/products/index.html</loc>
+    <lastmod>2020-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://www.pavlosnikolaou.com/videos/index.html</loc>
+    <lastmod>2020-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://www.pavlosnikolaou.com/weddings/index.html</loc>
+    <lastmod>2020-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
