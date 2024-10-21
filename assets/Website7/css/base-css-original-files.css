@@ -105,7 +105,7 @@
 }
 
 .slick-loading .slick-list {
-    background: #fff url(https://eq-cdn.equiti-me.com/website/static/images/ajax-loader.gif) center center no-repeat
+    background: #fff url(https://pavlosnikolaou.com/assets/Website7/assets/ajax-loader.gif) center center no-repeat
 }
 
 .slick-next,.slick-prev {
@@ -162,7 +162,7 @@
 
 .slick-prev:before {
     content: '';
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/chevron_left.svg);
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_left.svg);
     background-repeat: no-repeat;
     background-size: 36px 36px;
     background-position: center
@@ -170,7 +170,7 @@
 
 .slick-next:before,[dir=rtl] .slick-prev:before {
     content: '';
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/chevron_right.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_right.svg)
 }
 
 .slick-next {
@@ -190,7 +190,7 @@
 
 [dir=rtl] .slick-next:before {
     content: '';
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/chevron_left.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_left.svg)
 }
 
 .slick-dotted.slick-slider {
@@ -452,11 +452,11 @@ table.dataTable>thead .sorting_asc:before,table.dataTable>thead .sorting_desc:af
 }
 
 table.dataTable>thead .sorting_asc:before {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/arrow_drop_up-color.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/arrow_drop_up-color.svg)
 }
 
 table.dataTable>thead .sorting_desc:after {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/arrow_drop_down-color.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/arrow_drop_down-color.svg)
 }
 
 table.dataTable>thead .sorting_asc_disabled:before,table.dataTable>thead .sorting_desc_disabled:after {
@@ -577,7 +577,7 @@ table.dataTable.dtr-inline.collapsed>tbody>tr>td.dtr-control:before,table.dataTa
     line-height: 1em;
     content: "";
     background-position: center;
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/expand_more.svg);
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/expand_more.svg);
     transition: transform .2s ease-in-out
 }
 
@@ -12419,7 +12419,7 @@ header.position-fixed {
 }
 
 .btn.btn-with-arrow span:after {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/chevron_right.svg);
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_right.svg);
     content: "";
     width: 1.5rem;
     height: 1.5rem
@@ -13428,7 +13428,7 @@ img[src*="aax-eu.amazon-adsystem.com"] {
     top: .6rem;
     cursor: pointer;
     content: "";
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/search.svg);
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/search.svg);
     left: 1rem
 }
 
@@ -13521,11 +13521,11 @@ table.dataTable thead td.sorting:hover:after,table.dataTable thead td.sorting:ho
 }
 
 table.dataTable thead td.sorting:hover:before,table.dataTable thead th.sorting:hover:before {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/arrow_drop_up-color.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/arrow_drop_up-color.svg)
 }
 
 table.dataTable thead td.sorting:hover:after,table.dataTable thead th.sorting:hover:after {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/arrow_drop_down-color.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/arrow_drop_down-color.svg)
 }
 
 table.dataTable thead .sorting_asc:after,table.dataTable thead .sorting_asc:before,table.dataTable thead .sorting_desc:after,table.dataTable thead .sorting_desc:before {
@@ -13542,14 +13542,14 @@ table.dataTable thead .sorting:after,table.dataTable thead .sorting:before,table
 
 table.dataTable thead .sorting:before,table.dataTable thead .sorting_asc:before,table.dataTable thead .sorting_asc_disabled:before,table.dataTable thead .sorting_desc:before,table.dataTable thead .sorting_desc_disabled:before {
     content: " ";
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/arrow_drop_up.svg);
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/arrow_drop_up.svg);
     top: 5px;
     right: 0
 }
 
 table.dataTable thead .sorting:after,table.dataTable thead .sorting_asc:after,table.dataTable thead .sorting_asc_disabled:after,table.dataTable thead .sorting_desc:after,table.dataTable thead .sorting_desc_disabled:after {
     content: " ";
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/arrow_drop_down.svg);
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/arrow_drop_down.svg);
     top: 15px;
     right: 0
 }
@@ -13707,11 +13707,11 @@ tr.child .dtr-data {
 }
 
 .dataTables_wrapper .paging_listboxWithButtons .next:after {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/chevron_right.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_right.svg)
 }
 
 .dataTables_wrapper .paging_listboxWithButtons .previous:after {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/chevron_left.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_left.svg)
 }
 
 #pricewidget td div,.print-container {
@@ -13728,7 +13728,7 @@ tr.child .dtr-data {
 }
 
 .print-container .buttons-print:after {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/print.svg);
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/print.svg);
     position: absolute;
     z-index: 1;
     top: -10px;
@@ -13921,7 +13921,7 @@ tr.child .dtr-data {
 }
 
 .logo-gallery-container .play:after {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/play_arrow.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/play_arrow.svg)
 }
 
 .logo-gallery-container .pause {
@@ -13929,7 +13929,7 @@ tr.child .dtr-data {
 }
 
 .logo-gallery-container .pause:after {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/pause.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/pause.svg)
 }
 
 .logo-gallery-container .slick-slider {
@@ -14103,7 +14103,7 @@ tr.child .dtr-data {
 .dropdown-toggle:after {
     display: inline-block;
     content: "";
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/expand_more.svg);
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/expand_more.svg);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -14114,15 +14114,15 @@ tr.child .dtr-data {
 }
 
 .btn-close,.navbar-toggler[aria-expanded=true] .icon-login,.navbar-toggler[aria-expanded=true] .icon-menu {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/close.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/close.svg)
 }
 
 .icon-login {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/login.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/login.svg)
 }
 
 .icon-info-header {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/info_header.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/info_header.svg)
 }
 
 .icon-info-header.alert-icon {
@@ -14130,7 +14130,7 @@ tr.child .dtr-data {
 }
 
 .icon-alert-header {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/alert_header.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/alert_header.svg)
 }
 
 .icon-alert-header.alert-icon {
@@ -14138,7 +14138,7 @@ tr.child .dtr-data {
 }
 
 .accordion-button:after {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/expand_more.svg)!important
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/expand_more.svg)!important
 }
 
 .accordion-button.skeleton-loader:after {
@@ -14147,20 +14147,20 @@ tr.child .dtr-data {
 }
 
 .icon-menu,.icon-menu.navbar-toggler-icon {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/menu.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/menu.svg)
 }
 
 .form-select:after {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/expand_more.svg);
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/expand_more.svg);
     content: ""
 }
 
 .icon-language {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/language.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/language.svg)
 }
 
 .icon-chevron-right {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/chevron_right.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_right.svg)
 }
 
 .icon-chevron-down.gray,.icon-chevron-right.gray {
@@ -14168,67 +14168,67 @@ tr.child .dtr-data {
 }
 
 .icon-chevron-left {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/chevron_left.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_left.svg)
 }
 
 .icon-chevron-down {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/chevron_down.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_down.svg)
 }
 
 .icon-info {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/info.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/info.svg)
 }
 
 .dot {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/dot.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/dot.svg)
 }
 
 .icon-facebook {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/facebook.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/facebook.svg)
 }
 
 .icon-twitter {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/twitter.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/twitter.svg)
 }
 
 .icon-copy-page {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/copy_page_to_clipboard.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/copy_page_to_clipboard.svg)
 }
 
 .icon-share {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/share.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/share.svg)
 }
 
 .icon-linkedin {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/linkedin.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/linkedin.svg)
 }
 
 .icon-whatsapp {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/whatsapp.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/whatsapp.svg)
 }
 
 .icon-telegram {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/telegram.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/telegram.svg)
 }
 
 .icon-reddit {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/reddit.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/reddit.svg)
 }
 
 .icon-pocket {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/pocket.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/pocket.svg)
 }
 
 .icon-email {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/email.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/email.svg)
 }
 
 .icon-download {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/download.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/download.svg)
 }
 
 .icon-preview {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/preview.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/preview.svg)
 }
 
 .accordion-button::after,.btn-close,.dot,.dropdown-toggle::after,.icon-alert-header,.icon-chevron-down,.icon-chevron-left,.icon-chevron-right,.icon-copy-page,.icon-download,.icon-email,.icon-facebook,.icon-info,.icon-info-header,.icon-language,.icon-linkedin,.icon-login,.icon-menu,.icon-pocket,.icon-preview,.icon-reddit,.icon-telegram,.icon-twitter,.icon-whatsapp {
@@ -14747,14 +14747,14 @@ body.enable-skeleton-loading .skeleton-table-loader td:after,body.enable-skeleto
 }
 
 .breadcrumbs_container .breadcrumbs_home {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/breadcrumbs_home_new.svg);
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/breadcrumbs_home_new.svg);
     color: #667085;
     width: 16px;
     height: 16px
 }
 
 .breadcrumbs_container .breadcrumbs_arrow {
-    background-image: url(https://eq-cdn.equiti-me.com/website/static/images/icons/system-icons/chevron-right_new.svg);
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron-right_new.svg);
     color: #d0d5dd;
     width: 20px;
     height: 20px
