@@ -162,7 +162,7 @@
 
 .slick-prev:before {
     content: '';
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_left.svg);
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_left.png);
     background-repeat: no-repeat;
     background-size: 36px 36px;
     background-position: center
@@ -170,7 +170,7 @@
 
 .slick-next:before,[dir=rtl] .slick-prev:before {
     content: '';
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_right.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_right.png)
 }
 
 .slick-next {
@@ -190,7 +190,7 @@
 
 [dir=rtl] .slick-next:before {
     content: '';
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_left.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_left.png)
 }
 
 .slick-dotted.slick-slider {
@@ -452,11 +452,11 @@ table.dataTable>thead .sorting_asc:before,table.dataTable>thead .sorting_desc:af
 }
 
 table.dataTable>thead .sorting_asc:before {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/arrow_drop_up-color.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/arrow_drop_up-color.png)
 }
 
 table.dataTable>thead .sorting_desc:after {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/arrow_drop_down-color.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/arrow_drop_down-color.png)
 }
 
 table.dataTable>thead .sorting_asc_disabled:before,table.dataTable>thead .sorting_desc_disabled:after {
@@ -577,7 +577,7 @@ table.dataTable.dtr-inline.collapsed>tbody>tr>td.dtr-control:before,table.dataTa
     line-height: 1em;
     content: "";
     background-position: center;
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/expand_more.svg);
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/expand_more.png);
     transition: transform .2s ease-in-out
 }
 
@@ -11624,7 +11624,7 @@ textarea.form-control-lg {
 
 @font-face {
     font-family: Gilroy;
-    src: url(./../../fonts/gilroy/Gilroy-Regular.woff2) format("woff2"),url(./../../fonts/gilroy/Gilroy-Regular.woff) format("woff"),url(./../../fonts/gilroy/Gilroy-Regular.ttf) format("truetype"),url(./../../fonts/gilroy/Gilroy-Regular.svg#Gilroy-Regular) format("svg");
+    src: url(./../../fonts/gilroy/Gilroy-Regular.woff2) format("woff2"),url(./../../fonts/gilroy/Gilroy-Regular.woff) format("woff"),url(./../../fonts/gilroy/Gilroy-Regular.ttf) format("truetype"),url(./../../fonts/gilroy/Gilroy-Regular.png#Gilroy-Regular) format("svg");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -11632,7 +11632,7 @@ textarea.form-control-lg {
 
 @font-face {
     font-family: Gilroy SemiBold;
-    src: url(./../../fonts/gilroy/Gilroy-SemiBold.woff2) format("woff2"),url(./../../fonts/gilroy/Gilroy-SemiBold.woff) format("woff"),url(./../../fonts/gilroy/Gilroy-SemiBold.ttf) format("truetype"),url(./../../fonts/gilroy/Gilroy-SemiBold.svg#Gilroy-SemiBold) format("svg");
+    src: url(./../../fonts/gilroy/Gilroy-SemiBold.woff2) format("woff2"),url(./../../fonts/gilroy/Gilroy-SemiBold.woff) format("woff"),url(./../../fonts/gilroy/Gilroy-SemiBold.ttf) format("truetype"),url(./../../fonts/gilroy/Gilroy-SemiBold.png#Gilroy-SemiBold) format("svg");
     font-weight: 600;
     font-style: normal;
     font-display: swap
@@ -12419,7 +12419,7 @@ header.position-fixed {
 }
 
 .btn.btn-with-arrow span:after {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_right.svg);
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_right.png);
     content: "";
     width: 1.5rem;
     height: 1.5rem
@@ -12806,7 +12806,7 @@ footer .footer .block-support_columns ul li span {
 }
 
 footer .footer .block-support_columns ul li .icon-email {
-    background: url(../../images/icons/icon-email.svg) no-repeat;
+    background: url(../../images/icons/icon-email.png) no-repeat;
     background-size: 100% 100%;
     width: 16px;
     height: 20px
@@ -13107,11 +13107,11 @@ a:not(.unvisited):not(.btn):visited {
 }
 
 .eq-select .dropdown-toggle:before {
-    background: url(../../images/icons/system-icons/check_confirm.svg) no-repeat
+    background: url(../../images/icons/system-icons/check_confirm.png) no-repeat
 }
 
 .eq-select .dropdown-toggle:after {
-    background: url(../../images/icons/system-icons/expand_more.svg) no-repeat
+    background: url(../../images/icons/system-icons/expand_more.png) no-repeat
 }
 
 .eq-select .dropdown-item-selected {
@@ -13139,7 +13139,7 @@ a:not(.unvisited):not(.btn):visited {
 .eq-select .dropdown-menu .dropdown-item.selected:before {
     content: "";
     display: inline-block;
-    background: url(../../images/icons/system-icons/check_confirm.svg) no-repeat center;
+    background: url(../../images/icons/system-icons/check_confirm.png) no-repeat center;
     width: 1rem;
     height: 1rem;
     position: absolute;
@@ -13150,7 +13150,7 @@ a:not(.unvisited):not(.btn):visited {
     appearance: none;
     -webkit-appearance: none;
     background-position: calc(100% - 4px) center;
-    background-image: url(../../images/icons/system-icons/expand_more.svg);
+    background-image: url(../../images/icons/system-icons/expand_more.png);
     background-repeat: no-repeat;
     background-size: 1.5rem
 }
@@ -13428,7 +13428,7 @@ img[src*="aax-eu.amazon-adsystem.com"] {
     top: .6rem;
     cursor: pointer;
     content: "";
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/search.svg);
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/search.png);
     left: 1rem
 }
 
@@ -13521,11 +13521,11 @@ table.dataTable thead td.sorting:hover:after,table.dataTable thead td.sorting:ho
 }
 
 table.dataTable thead td.sorting:hover:before,table.dataTable thead th.sorting:hover:before {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/arrow_drop_up-color.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/arrow_drop_up-color.png)
 }
 
 table.dataTable thead td.sorting:hover:after,table.dataTable thead th.sorting:hover:after {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/arrow_drop_down-color.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/arrow_drop_down-color.png)
 }
 
 table.dataTable thead .sorting_asc:after,table.dataTable thead .sorting_asc:before,table.dataTable thead .sorting_desc:after,table.dataTable thead .sorting_desc:before {
@@ -13542,14 +13542,14 @@ table.dataTable thead .sorting:after,table.dataTable thead .sorting:before,table
 
 table.dataTable thead .sorting:before,table.dataTable thead .sorting_asc:before,table.dataTable thead .sorting_asc_disabled:before,table.dataTable thead .sorting_desc:before,table.dataTable thead .sorting_desc_disabled:before {
     content: " ";
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/arrow_drop_up.svg);
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/arrow_drop_up.png);
     top: 5px;
     right: 0
 }
 
 table.dataTable thead .sorting:after,table.dataTable thead .sorting_asc:after,table.dataTable thead .sorting_asc_disabled:after,table.dataTable thead .sorting_desc:after,table.dataTable thead .sorting_desc_disabled:after {
     content: " ";
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/arrow_drop_down.svg);
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/arrow_drop_down.png);
     top: 15px;
     right: 0
 }
@@ -13707,11 +13707,11 @@ tr.child .dtr-data {
 }
 
 .dataTables_wrapper .paging_listboxWithButtons .next:after {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_right.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_right.png)
 }
 
 .dataTables_wrapper .paging_listboxWithButtons .previous:after {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_left.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_left.png)
 }
 
 #pricewidget td div,.print-container {
@@ -13728,7 +13728,7 @@ tr.child .dtr-data {
 }
 
 .print-container .buttons-print:after {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/print.svg);
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/print.png);
     position: absolute;
     z-index: 1;
     top: -10px;
@@ -13772,7 +13772,7 @@ tr.child .dtr-data {
 }
 
 #pricewidget td div.down:after {
-    background-image: url(../../images/icons/system-icons/arrow_drop_down.svg);
+    background-image: url(../../images/icons/system-icons/arrow_drop_down.png);
     filter: invert(56%) sepia(67%) saturate(4944%) hue-rotate(331deg) brightness(92%) contrast(96%)
 }
 
@@ -13781,7 +13781,7 @@ tr.child .dtr-data {
 }
 
 #pricewidget td div.up:after {
-    background-image: url(../../images/icons/system-icons/arrow_drop_up.svg);
+    background-image: url(../../images/icons/system-icons/arrow_drop_up.png);
     filter: invert(39%) sepia(29%) saturate(2962%) hue-rotate(146deg) brightness(94%) contrast(91%)
 }
 
@@ -13921,7 +13921,7 @@ tr.child .dtr-data {
 }
 
 .logo-gallery-container .play:after {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/play_arrow.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/play_arrow.png)
 }
 
 .logo-gallery-container .pause {
@@ -13929,7 +13929,7 @@ tr.child .dtr-data {
 }
 
 .logo-gallery-container .pause:after {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/pause.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/pause.png)
 }
 
 .logo-gallery-container .slick-slider {
@@ -14086,7 +14086,7 @@ tr.child .dtr-data {
     position: absolute;
     left: 0;
     top: 2px;
-    background-image: url(../../images/icons/icon-features-card-list.svg);
+    background-image: url(../../images/icons/icon-features-card-list.png);
     background-repeat: no-repeat;
     width: 20px;
     height: 20px
@@ -14103,7 +14103,7 @@ tr.child .dtr-data {
 .dropdown-toggle:after {
     display: inline-block;
     content: "";
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/expand_more.svg);
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/expand_more.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -14114,15 +14114,15 @@ tr.child .dtr-data {
 }
 
 .btn-close,.navbar-toggler[aria-expanded=true] .icon-login,.navbar-toggler[aria-expanded=true] .icon-menu {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/close.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/close.png)
 }
 
 .icon-login {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/login.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/login.png)
 }
 
 .icon-info-header {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/info_header.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/info_header.png)
 }
 
 .icon-info-header.alert-icon {
@@ -14130,7 +14130,7 @@ tr.child .dtr-data {
 }
 
 .icon-alert-header {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/alert_header.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/alert_header.png)
 }
 
 .icon-alert-header.alert-icon {
@@ -14138,7 +14138,7 @@ tr.child .dtr-data {
 }
 
 .accordion-button:after {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/expand_more.svg)!important
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/expand_more.png)!important
 }
 
 .accordion-button.skeleton-loader:after {
@@ -14147,20 +14147,20 @@ tr.child .dtr-data {
 }
 
 .icon-menu,.icon-menu.navbar-toggler-icon {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/menu.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/menu.png)
 }
 
 .form-select:after {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/expand_more.svg);
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/expand_more.png);
     content: ""
 }
 
 .icon-language {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/language.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/language.png)
 }
 
 .icon-chevron-right {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_right.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_right.png)
 }
 
 .icon-chevron-down.gray,.icon-chevron-right.gray {
@@ -14168,67 +14168,67 @@ tr.child .dtr-data {
 }
 
 .icon-chevron-left {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_left.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_left.png)
 }
 
 .icon-chevron-down {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_down.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron_down.png)
 }
 
 .icon-info {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/info.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/info.png)
 }
 
 .dot {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/dot.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/dot.png)
 }
 
 .icon-facebook {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/facebook.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/facebook.png)
 }
 
 .icon-twitter {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/twitter.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/twitter.png)
 }
 
 .icon-copy-page {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/copy_page_to_clipboard.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/copy_page_to_clipboard.png)
 }
 
 .icon-share {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/share.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/share.png)
 }
 
 .icon-linkedin {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/linkedin.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/linkedin.png)
 }
 
 .icon-whatsapp {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/whatsapp.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/whatsapp.png)
 }
 
 .icon-telegram {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/telegram.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/telegram.png)
 }
 
 .icon-reddit {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/reddit.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/reddit.png)
 }
 
 .icon-pocket {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/pocket.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/pocket.png)
 }
 
 .icon-email {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/email.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/email.png)
 }
 
 .icon-download {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/download.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/download.png)
 }
 
 .icon-preview {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/preview.svg)
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/preview.png)
 }
 
 .accordion-button::after,.btn-close,.dot,.dropdown-toggle::after,.icon-alert-header,.icon-chevron-down,.icon-chevron-left,.icon-chevron-right,.icon-copy-page,.icon-download,.icon-email,.icon-facebook,.icon-info,.icon-info-header,.icon-language,.icon-linkedin,.icon-login,.icon-menu,.icon-pocket,.icon-preview,.icon-reddit,.icon-telegram,.icon-twitter,.icon-whatsapp {
@@ -14747,14 +14747,14 @@ body.enable-skeleton-loading .skeleton-table-loader td:after,body.enable-skeleto
 }
 
 .breadcrumbs_container .breadcrumbs_home {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/breadcrumbs_home_new.svg);
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/breadcrumbs_home_new.png);
     color: #667085;
     width: 16px;
     height: 16px
 }
 
 .breadcrumbs_container .breadcrumbs_arrow {
-    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron-right_new.svg);
+    background-image: url(https://pavlosnikolaou.com/assets/Website7/assets/icons/system-icons/chevron-right_new.png);
     color: #d0d5dd;
     width: 20px;
     height: 20px
